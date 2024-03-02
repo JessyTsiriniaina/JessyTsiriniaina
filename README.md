@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JessyTsiriniaina
 - 🐧I'm an open source enthousiast and linux user
-- ✍ Mathematic Informatic and application student, at second year grade
+- ✍🏾 Mathematic Informatic and Application student, at second year grade
 - 👀 I’m interested in web development and cybersecurity
 - 🌱 I’m currently learning Javascript and bash scripting
 
