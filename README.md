@@ -2,7 +2,7 @@
 - 🐧I'm an open source enthousiast and linux user
 - ✍🏾 Mathematic Informatic and Application student, at second year grade
 - 👀 I’m interested in web development and cybersecurity
-- 🌱 I’m currently learning Javascript and bash scripting
+- 🌱 I’m currently learning Javascript and bash
 
 <!---
 JessyTsiriniaina/JessyTsiriniaina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
