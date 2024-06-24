@@ -1,22 +1,3 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://m.facebook.com/jessytsiriniaina" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=JessyTsiriniaina.JessyTsiriniaina&"  />
-</div>
-
-###
 
 <h1 align="center">hey there 👋</h1>
 
