@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">I'm <strong>Jessy Tsiriniaina</strong> from Madagascar<br><br>- 📚 I'm currently learning php, javascript and C<br><br>- 👀 I’m interested in web development and cybersecurity<br><br>- 🐧I'm an open source enthousiast and linux user</p>
+<p align="left">I'm <strong>Jessy Tsiriniaina</strong> from Madagascar<br><br>- 📚 I'm currently learning UI/UX design and ReactJS<br><br>- 👀 I’m interested in data analysis and cybersecurity<br><br>- 🐧I'm an open source enthousiast and linux user</p>
 
 ###
 
