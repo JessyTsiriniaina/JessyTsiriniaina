@@ -1,25 +1,6 @@
 
 <p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=500&pause=500&color=44C888FF&background=02462500&multiline=true&repeat=false&width=1000&height=150&lines=-%3E%20jessy%40github-%5B~%2Fsoftware-engineering%5D+%24+.%2Fbuild_future.sh;%3E+Initializing+developer...;%3E+Loading+Java..............+OK;%3E+Loading+Spring+Boot.......+OK;%3E+Loading+AI................+OK;%3E+Loading+curiosity.........+OK" alt="Typing SVG" /></a>
-</p>
-
----
-
-# Hi, I'm Jessy Tsiriniaina 👋
-## `About Me`
-
-```text
-Jessy Tsiriniaina
-├── Software Engineering
-├── Backend Development
-├── Building web applications with React.js
-├── Artificial Intelligence
-├── Modern development best practices and Linux
-└── Real-Time & Distributed Systems
-```
-
-> I don't just want to make software work — I want to understand why it works.
->  I enjoy understanding **how systems work under the hood** and turning ideas into practical software solutions.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=100&pause=500&color=44C888&background=02462500&multiline=true&repeat=false&width=1000&height=385&lines=-%3E+%28jessy%40github%29-%5B~%2Fsoftware-engineering%5D+%24+.%2Fbuild_future.sh;%3E+Initializing+developer...;%3E+Loading+Java..............+OK;%3E+Loading+Spring+Boot.......+OK;%3E+Loading+AI................+OK;%3E+Loading+curiosity.........+OK;++;-%3E+%28jessy%40github%29-%5B~%2Fsoftware-engineering%5D+%24+whoami;Jessy+Tsiriniaina;%E2%94%9C%E2%94%80%E2%94%80+Software+Engineering;%E2%94%9C%E2%94%80%E2%94%80+Backend+Development;%E2%94%9C%E2%94%80%E2%94%80+Building+web+applications;%E2%94%9C%E2%94%80%E2%94%80+Artificial+Intelligence;%E2%94%9C%E2%94%80%E2%94%80+Modern+development+best+practices+and+Linux;%E2%94%94%E2%94%80%E2%94%80+Real-Time+%26+Distributed+Systems;++;-%3E+%28jessy%40github%29-%5B~%2Fsoftware-engineering%5D+%24+mentality;Understanding+how+systems+work+under+the+hood+and+turning+ideas+into+practical+software+solutions." alt="Typing SVG" /></a>
 
 ---
 
@@ -44,6 +25,8 @@ Jessy Tsiriniaina
 ---
 
 ## `Let's Connect`
+
+<p> <a href="https://facebook.com/jessytsiriniaina"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/> </a> <a href="https://www.linkedin.com/in/tsiriniaina-jessy-ranarison-5b68a4365/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:tsiriniaina.jessy@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </p>
 
 I'm always interested in connecting with developers, engineers, students, and people building interesting technology.
 
